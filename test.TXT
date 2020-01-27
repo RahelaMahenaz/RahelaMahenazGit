@@ -1,0 +1,12 @@
+This is my first text file.
+
+To Configure Git Acccount:
+git config --global user.name "17wh1a0595"
+To Configure email:
+git config --global user.email 17wh1a0595@bvrithyderabad.edu.in
+To Clone Repository:
+git clone https://github.com/17wh1a0595/RahelaMahenazGit.git
+To commit:
+git commit -m "first commit" test.txt
+To transfer file to git account
+git push -u origin master
